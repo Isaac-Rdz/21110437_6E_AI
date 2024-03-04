@@ -1,0 +1,15 @@
+#rodriguez mendez emmanuel isaac
+#21110437
+#6E1
+
+# Declaramos Nuestra lista con "[]" y "," Para poner la separacion de cada palabra.
+
+materias = ['vibraciones','teoria','IA','vision','ingles','economia','potencia','PLC']
+
+#Para agregar objetos a la lista utilizaremos el metodo "Append()".
+
+materias.append("micos")
+
+#Este objeto se agregara al final de la lista.
+
+print(materias)
